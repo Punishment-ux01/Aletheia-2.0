@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Gmail",
+    "url": "https://mail.google.com/"
+  },
+  {
+    "nome": "Google Drive",
+    "url": "https://drive.google.com/"
+  },
+  {
+    "nome": "YouTube",
+    "url": "https://www.youtube.com/"
+  },
+  {
+    "nome": "Google Notícias",
+    "url": "https://news.google.com/"
+  },
+  {
+    "nome": "Calendário Google",
+    "url": "https://calendar.google.com/"
+  }
+]
